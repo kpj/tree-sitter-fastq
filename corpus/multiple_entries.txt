@@ -1,0 +1,30 @@
+================
+Multiple entries
+================
+
+@A
+GGTTCCAA
++
+IIIIIIII
+@B
+acgtg
++
+hhhhh
+
+---
+
+(source_file
+  (header
+    (text))
+  (sequence
+    (base))
+  (divider)
+  (quality
+    (text))
+  (header
+    (text))
+  (sequence
+    (base))
+  (divider)
+  (quality
+    (text)))

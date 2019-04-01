@@ -1,0 +1,19 @@
+============
+Single entry
+============
+
+@A
+GGTTCCAA
++
+IIIIIIII
+
+---
+
+(source_file
+  (header
+    (text))
+  (sequence
+    (base))
+  (divider)
+  (quality
+    (text)))
