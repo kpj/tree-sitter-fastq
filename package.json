@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type" : "git",
-    "url" : ""
+    "url" : "https://github.com/kpj/tree-sitter-fastq/"
   },
   "dependencies": {
     "nan": "^2.13.2"
